@@ -8,12 +8,16 @@ public class Variables {
 			}
 public void addition () {
 	System.out.println(b);
+	
+	public void sustraction() {
+		
+	}
 }
      public static void main(String[]args) {
     	 Variables AB = new Variables();
     	 System.out.println(AB.b);
- AB.addition();
- Variables.additoin();
+         AB.addition();
+         Variables.additoin();
     	 
  			
  			

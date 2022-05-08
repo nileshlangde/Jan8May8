@@ -14,7 +14,7 @@ public class scanner {
 
          }
 		else {
-			    System.out.println("enter valid amount");
+			    System.out.println("enter valid amount here");
 		     }
 		}
 		
